@@ -18,7 +18,7 @@ This works with `google_maps_flutter` on mobile and web, allowing you to replace
 ## 📷 Demo
 ## Example Screenshot
 
-![Custom Info Window Example](https://raw.githubusercontent.com/Ngetsophun/google_map_custom_info_widow/main/example/assets/img_demo.jpg)
+![Custom Info Window Example](https://raw.githubusercontent.com/Ngetsophun/google_map_custom_info_widow/main/example/assets/img_demo.png)
 
 ---
 
@@ -26,7 +26,7 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  google_map_custom_info_window: ^0.0.1
+  google_map_custom_info_window: ^0.0.6
 
 
 
