@@ -1,6 +1,6 @@
 name: google_map_custom_info_widow
 description: " A Flutter package to show custom info windows on Google Maps markers."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/Ngetsophun/google_map_custom_info_widow
 
 environment:

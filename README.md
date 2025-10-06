@@ -26,7 +26,7 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  google_map_custom_info_window: ^1.0.0
+  google_map_custom_info_window: ^1.0.1
 
 
 
