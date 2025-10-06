@@ -1,4 +1,4 @@
-## 0.0.6
+## 1.0.0
 
 - 🎉 Initial release of `google_map_custom_info_window`
 - Added `GoogleMapCustomInfoWindow` widget
